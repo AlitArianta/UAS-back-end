@@ -7,7 +7,6 @@ Mata Kuliah : Back-end Webdev
 Penjelasan mengenai konfigurasi sistem
 Struktur Direktori
 Direktori public:
-
 'index.php' Adalah pintu gerbang utama (entry point) dari website ini. Ketika pengguna mengunjungi website, file 'index.php' akan menjadi yang pertama kali dieksekusi. Fungsinya adalah menerima permintaan HTTP dari pengguna, memeriksa jenis permintaan (GET, POST, PUT, DELETE), dan mengarahkannya ke Controller yang sesuai untuk diproses lebih lanjut. Saat ini, index.php hanya berisi header yang menampilkan pesan "XYZ Sales API End Point".
 
 src

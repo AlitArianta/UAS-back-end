@@ -1,6 +1,6 @@
 UTS Back-End Web Development
 Nama   : I Komang Alit Arianta
-NIM    : 230010055
+NIM         : 230010055
 Kelas       : DI231
 Mata Kuliah : Back-end Webdev
 
